@@ -45,5 +45,4 @@ function add_Function($num1, $num2) {
  printMe("This is test");
  printMe();
 
-
 ?>
